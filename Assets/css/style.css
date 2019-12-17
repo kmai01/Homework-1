@@ -1,0 +1,61 @@
+
+
+body{
+    background: url(../images/handmadepaper.png)
+    
+
+    
+}
+
+
+ul {    
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        background-color:  #4aaaa5;
+        font-size: 28px;
+        color: #ffffff;
+        background: #4aaaa5;
+        
+        
+   }
+
+   
+
+   
+.button{
+    background-color: #ffffff;
+    color: #777777;
+    float:right;
+    justify-content: space-between;
+}
+
+h2 {
+    color: #4aaaa5;
+    font-size: 28px;
+    font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+header{
+    background-color: #ffffff;
+    color: #777777;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+    
+}
+#bio-image {
+    float: left;
+    height: 200px;
+    width: 200px;
+    
+  }
+  
+.container {
+   
+    width: 960px;
+    background-color: #ffffff;
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%);
+}
